@@ -13,6 +13,8 @@ var n3 = "10";
 
 //This checks is the values are equal(ignores the type)
 console.log(n1 == n3);
+
+
 //Checks the type too.
 console.log(n1 === n3);
 console.log(typeof (n1 === n3));

@@ -9,3 +9,6 @@ circleElement.addEventListener("mouseenter",()=>{
 circleElement.addEventListener("mouseleave",()=>{
     warningElement.innerHTML = "Good, Now don't be stupid again"
 });
+
+//https://developer.mozilla.org/en-US/docs/Web/Events
+// This contains the link to all the possible events in JS
